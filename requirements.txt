@@ -1,0 +1,8 @@
+flask>=3.0
+geopandas>=0.14
+geopy>=2.4
+langgraph>=0.2
+openai>=1.0.0
+requests>=2.31
+shapely>=2.0
+streamlit>=1.39
